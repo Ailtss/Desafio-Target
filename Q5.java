@@ -2,6 +2,11 @@ import java.util.Scanner;
 import java.util.Arrays;
 
 
+
+//Questão 05 do Desafio Target para criar um programa que reverta uma String.
+
+//Problem to solve: Create a program that reverts a string.
+
 public class Q5 {
 
     public static void main(String[] args) {
